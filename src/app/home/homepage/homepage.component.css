@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Yeseva+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Mulish:wght@200&family=Yeseva+One&display=swap');
+
+
+.topbar {
+    background-color: #fcb900;
+    ;
+}
+
+.maintop {
+    /* background-color: green; */
+    width: 50%;
+    /* margin: auto; */
+    margin-left: 200px;
+}
+
+.maintop a {
+    color: black;
+    text-decoration: none;
+}
+
+.mainnav a {
+    color: black;
+    font-weight: bolder;
+    font-size: 16px;
+    font-family: roboto, sans-serif;
+}
+
+.mainnav a:hover {
+    color: #fcb900;
+}
+
+.dropdownitem a {
+    font-size: 12px;
+    color: rgb(180, 175, 175);
+}
+
+.dropdownitem a:hover {
+    color: white !important;
+    background-color: black !important;
+}
+
+.carousel-caption {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+
+}
+
+.carousel-caption {}
+
+.carousel-caption h1 {
+    font-size: 80px;
+    text-align: left;
+}
+
+.carousel-caption p {
+    font-size: 15px;
+    text-align: left;
+}
+
+.carousel-caption h5 {
+    font-size: 30px;
+    text-align: left;
+    /* margin-top: -100px; */
+
+}
+
+.text {
+    margin-top: -130px;
+}
+
+.carousel-caption h1 {
+    font-size: 120px;
+    /* margin-top: -100px; */
+
+}
+
+.carousel-caption {
+    font-size: 120px;
+
+}
+
+.sm-column-1 {
+    padding: 0 20px;
+
+
+}
+
+.hero-section img {
+    overflow: hidden;
+    opacity: 50% black;
+    color: red;
+}
+
+.hero-section {
+    margin-top: -22px;
+}
+
+.hero-section img {
+    width: 100%;
+    /* height: 100vh; */
+}
+
+.button-section {
+    margin-top: -90px;
+}
+
+.button-section .card {
+
+    background-color: rgb(2, 0, 0, 0.5);
+    border: none;
+}
+
+.button-section .card button {
+    border: none;
+    background: transparent;
+    color: white;
+    padding: 22px;
+}
+
+.button-section .card button:hover {
+    background-color: rgb(31, 28, 28);
+}
+
+.button-section .card button i {
+    font-size: 30px;
+}
+
+.button-text p {
+    font-size: 22px;
+    margin-inline: 20px;
+}
+
+.button-text {}
+
+
+
+/* ============= WHO WE ARE ============= */
+
+.who-we-are {
+    margin-top: 80px;
+}
+
+.card {
+    border: none;
+}
+
+.who-we-are-text {
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.who-we-are-text .card {
+    margin-top: 150px;
+    border: none;
+    margin-left: 50px;
+
+}
+
+.who-we-are-text h5 {
+    color: #0c5ADB;
+}
+.who-we-are-text h1 {
+ font-size: 47px;
+ font-weight: bolder;
+}
+
+.who-we-are-text .card .card-text {
+    font-size: 25px;
+}
+.who-we-are-text p{
+  font-size: 20px;
+}
+
+
+.fa-play {
+    padding: 25px;
+    border-radius: 100%;
+    box-shadow: 2px 2px 2px 2px #e2dfdf;
+}
+
+.who-we-are-text a {
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+}
+
+/* ================ service ============= */
+.service{
+  background-color: #f8f8f8 !important;
+}
+.service .card{
+  /* background-color: #f8f8f8 !important; */
+  background: transparent;
+
+}
+.service-card .card{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.service-text .col-md-2 {
+    color: #0c5ADB;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.service-text h4 {
+    margin-inline: 10px;
+    font-size: 40px;
+    text-align: left;
+}
+
+.service-text p {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Mulish', sans-serif;
+    color: #616161;
+
+}
+
+.service-text h6 {
+    font-size: 16px;
+    
+    text-decoration: none;
+    list-style: none;
+    font-weight: bolder;
+    color: #696767;
+}
+
+
+
+
+/* ===================choose Us ======================= */
+.choose-us{
+background: url(../../assets/backbanner.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+.choose-us .card{
+  background: url(../../assets/back11.jpg);
+}
+.choose-us-title{
+  /* margin-top: 200px; */
+
+}
+.choose-us-title h1{
+  font-size: 39px;
+}
+.choose-us-title h6{
+  font-size: 14px;
+  color: #d7d7d7;
+}
+
+.choose-us-card .card{
+  margin-inline: 10px;
+  background: url(../../assets/banner1.jpeg);
+}
+.choose-us-card{
+  /* padding-bottom: 150px; */
+}
+
+
+/* ==============Accordion=========== */
+.Accordion .container{
+  
+}
+
+.Accordion i{
+  font-size: 50px;
+  color: #0c5ADB;
+  text-align: center;
+}
+.Accordion .col-md-2 .card{
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 10px #3e3e3e;
+  margin: 10px;
+}
+.Accordion .col-md-2 .card:hover{
+  transform: scale(1.1);
+
+}
+
+.Accordion-img-and-text p{
+font-size: 25px;
+font-family: 'Roboto', sans-serif;
+line-height: 35px;
+margin-top: 30px;
+color: #616161;
+}
+.Accordion-img-and-text h1{
+  color: #0c5ADB;
+}
+.Accordion-img-and-text a{
+  font-size: 18px;
+  color: #0c5ADB;
+  text-decoration: none;
+  /* margin-inline: 50px; */
+}
+.Accordion-img-and-text{
+  /* margin-top: 50px; */
+  /* margin-bottom: 50px; */
+  /* box-shadow: 50px solid red; */
+}
+
+
+/* ======================== .case-studies ========== */
+
+
+.case-studies img{
+  height: 250px;
+}
+ 
+
+
+/* ====================== Media Query =================== */
+
+
+@media only screen and (max-width:768px) {
+    .hero-section {
+        margin-top: 40px;
+    }
+
+    .button-section {}
+
+    .button-section {}
+
+    .hero-section h1,
+    h5 {
+        display: block;
+    }
+
+
+
+    .who-we-are-text {
+        margin-top: 0px;
+
+    }
+
+    .who-we-are-text .card {
+        margin-top: 0px;
+        margin-left: 0px;
+
+    }
+
+    .who-we-are {
+        margin-top: 0px;
+    }
+
+    .service-card {
+        flex-direction: column;
+        margin-inline: 0px;
+    }
+    .service-card .card{
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+    .choose-us-card{
+      flex-direction: column;
+    }
+
+
+    .Accordion-body-area .Accordion-img-and-text{
+      flex-direction: column;
+    }
+    .Accordion .col-md-2{
+      width: 50%;
+    }
+    .who-we-are-text h1{
+      font-size: 35px;
+    }
+
+}

@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { SwiperOptions } from 'swiper';
+
 
 
 @Component({
